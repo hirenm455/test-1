@@ -2,10 +2,6 @@
   box-sizing: border-box;
 }
 
-html {
-  overflow-y: scroll;
-}
-
 body {
   background-image:url("image/login.jpg"); 
   font-family: 'Titillium Web', sans-serif;
